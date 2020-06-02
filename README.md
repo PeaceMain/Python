@@ -1,2 +1,2 @@
 # Python
-Open_CV
+Learn Open CV for term project.
